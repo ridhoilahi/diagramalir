@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T05:45:17.111Z" agent="5.0 (Windows)" etag="bYFe4180UmNVgLqkQWWC" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T06:05:46.639Z" agent="5.0 (Windows)" etag="nFTtkx68zKasw2RQk08R" version="16.6.1" type="github">
   <diagram id="g-Gv6t-8aT0DRsh0b5iK" name="Page-1">
     <mxGraphModel dx="1100" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,6 +128,9 @@
         <mxCell id="7uTBqYcSDTizJqDWrig_-15" value="Klik On?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="1340" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7uTBqYcSDTizJqDWrig_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uTBqYcSDTizJqDWrig_-16" target="7uTBqYcSDTizJqDWrig_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7uTBqYcSDTizJqDWrig_-16" value="&lt;div&gt;User terkoneksi&lt;/div&gt;&lt;div&gt;ke sistem basis data penyimpanan data pasang surut&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="1460" width="164" height="60" as="geometry" />
         </mxCell>
@@ -142,6 +145,15 @@
         </mxCell>
         <mxCell id="7uTBqYcSDTizJqDWrig_-23" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="406" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uTBqYcSDTizJqDWrig_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7uTBqYcSDTizJqDWrig_-24" target="7uTBqYcSDTizJqDWrig_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uTBqYcSDTizJqDWrig_-24" value="&lt;div&gt;Kegiatan monitoring &lt;br&gt;&lt;/div&gt;&lt;div&gt;data pasang surut siap dilakukan&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1560" width="154" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7uTBqYcSDTizJqDWrig_-26" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
